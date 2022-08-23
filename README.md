@@ -75,8 +75,33 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
     Estimate of time needed to complete: 2 hours
 
-    Start time: 10:00 pm
+    Start time: 3:20
 
-    Finish time: 3:10 pm next day
+    Finish time: 3:36
 
-    Actual time needed to complete: 3 hours in total
+    Actual time needed to complete: 16 minutes after fixing my issues
+
+
+    Number and name of feature: Feature #2: Allow users to vote for their favorite beast
+
+
+
+    Estimate of time needed to complete: 1 hour
+
+    Start time: 3:40
+
+    Finish time: 3:52
+
+    Actual time needed to complete: 12 minutes
+
+
+
+    Number and name of feature: Feature 3: Bootstrap
+
+    Estimate of time needed to complete: 2 hours
+
+    Start time: 3:54
+
+    Finish time: 4:17
+
+    Actual time needed to complete: 23 minutes
